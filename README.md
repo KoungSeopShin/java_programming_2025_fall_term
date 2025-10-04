@@ -1,1 +1,8 @@
-# java_programming_2025_fall_term
+# java_programming Assignment Collection
+
+2025년 2학기 자바 프로그래밍 수업 과제 모음.
+
+## 회차별 과제 주제
+- **1회차**: Java 기본 문법, 다차원 배열, 랜덤 함수(지뢰찾기 게임)
+- **2회차**: 객체 배열, 생성자(끝말잇기 게임)
+- **3회차**: super()와 this(), 추상 클래스 상속, 오버라이딩(묵찌빠 게임)
